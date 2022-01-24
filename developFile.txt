@@ -1,2 +1,6 @@
 I am Developing in the Development Branch
+<<<<<<< HEAD
 I am the master branch
+=======
+I am the master branch.... Master
+>>>>>>> develop
